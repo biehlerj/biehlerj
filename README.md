@@ -4,7 +4,7 @@ I'm a software engineer based out of Tucson, AZ. I enjoy working with Open Sourc
 
 I currently work with TypeScript, Java, Python, C++ and Docker, and I'm beginning to learn Go.
 
-**Currently** learning Go and working toward an Electrical Engineering degree.
+**Currently** learning Go and Rust while working toward an Electrical Engineering degree.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
